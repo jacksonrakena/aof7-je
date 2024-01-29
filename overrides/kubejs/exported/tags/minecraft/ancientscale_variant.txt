@@ -1,0 +1,8 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 27, 2022, 9:29:15 PM
+
+#fishofthieves:default_ancientscale_spawns
+- fishofthieves:almond (from Fish of Thieves)
+- fishofthieves:sapphire (from Fish of Thieves)
+- fishofthieves:smoke (from Fish of Thieves)
+- fishofthieves:bone (from Fish of Thieves)
+- fishofthieves:starshine (from Fish of Thieves)

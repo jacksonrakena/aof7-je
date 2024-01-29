@@ -1,0 +1,8 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 27, 2022, 9:29:15 PM
+
+#fishofthieves:default_wrecker_spawns
+- fishofthieves:rose (from Fish of Thieves)
+- fishofthieves:sun (from Fish of Thieves)
+- fishofthieves:blackcloud (from Fish of Thieves)
+- fishofthieves:snow (from Fish of Thieves)
+- fishofthieves:moon (from Fish of Thieves)

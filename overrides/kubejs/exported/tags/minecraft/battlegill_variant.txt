@@ -1,0 +1,8 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 27, 2022, 9:29:15 PM
+
+#fishofthieves:default_battlegill_spawns
+- fishofthieves:jade (from Fish of Thieves)
+- fishofthieves:sky (from Fish of Thieves)
+- fishofthieves:rum (from Fish of Thieves)
+- fishofthieves:sand (from Fish of Thieves)
+- fishofthieves:bittersweet (from Fish of Thieves)

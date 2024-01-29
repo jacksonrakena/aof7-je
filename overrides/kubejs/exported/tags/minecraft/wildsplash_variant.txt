@@ -1,0 +1,8 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 27, 2022, 9:29:15 PM
+
+#fishofthieves:default_wildsplash_spawns
+- fishofthieves:russet (from Fish of Thieves)
+- fishofthieves:sandy (from Fish of Thieves)
+- fishofthieves:ocean (from Fish of Thieves)
+- fishofthieves:muddy (from Fish of Thieves)
+- fishofthieves:coral (from Fish of Thieves)

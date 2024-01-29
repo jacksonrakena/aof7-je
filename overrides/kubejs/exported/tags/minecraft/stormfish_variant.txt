@@ -1,0 +1,8 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 27, 2022, 9:29:15 PM
+
+#fishofthieves:default_stormfish_spawns
+- fishofthieves:ancient (from Fish of Thieves)
+- fishofthieves:shores (from Fish of Thieves)
+- fishofthieves:wild (from Fish of Thieves)
+- fishofthieves:shadow (from Fish of Thieves)
+- fishofthieves:twilight (from Fish of Thieves)

@@ -1,0 +1,8 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 27, 2022, 9:29:15 PM
+
+#fishofthieves:default_devilfish_spawns
+- fishofthieves:ashen (from Fish of Thieves)
+- fishofthieves:seashell (from Fish of Thieves)
+- fishofthieves:lava (from Fish of Thieves)
+- fishofthieves:forsaken (from Fish of Thieves)
+- fishofthieves:firelight (from Fish of Thieves)

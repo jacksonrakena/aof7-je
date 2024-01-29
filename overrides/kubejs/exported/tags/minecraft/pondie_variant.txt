@@ -1,0 +1,8 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 27, 2022, 9:29:15 PM
+
+#fishofthieves:default_pondie_spawns
+- fishofthieves:charcoal (from Fish of Thieves)
+- fishofthieves:orchid (from Fish of Thieves)
+- fishofthieves:bronze (from Fish of Thieves)
+- fishofthieves:bright (from Fish of Thieves)
+- fishofthieves:moonsky (from Fish of Thieves)
